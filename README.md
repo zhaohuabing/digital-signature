@@ -3,6 +3,6 @@
 
 A simple java digital signature example.
 
-Documentation: https://zhaohuabing.co/2018/05/15/cryptocurrency_week1_digital_signature
+Documentation: https://zhaohuabing.com/2018/05/15/cryptocurrency_week1_digital_signature
 ## LICENSE
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
